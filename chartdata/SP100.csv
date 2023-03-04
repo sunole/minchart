@@ -1,0 +1,99 @@
+Tick,Company Name,Price,Market Cap
+SPY,Main index,236,23423234
+AAPL,Apple Inc.,244.93,1.07E+12
+ABBV,AbbVie Inc,75.13,1.11E+11
+ABT,Abbott Laboratories,79.44,1.40E+11
+ACN,Accenture Plc,156.27,1.03E+11
+ADBE,Adobe Inc,303.96,1.46E+11
+AGN,Allergan plc,177.54,58411012871
+AIG,American International Group Inc,21.25,18560213250
+ALL,Allstate Corp,85.79,27188018034
+AMGN,Amgen Inc.,208.88,1.23E+11
+AMZN,Amazon.com Inc.,1918.83,9.55E+11
+AXP,American Express Company,76.66,61770944430
+BA,Boeing Co,123.27,69552137125
+BAC,Bank of America Corp,20.57,1.80E+11
+BIIB,Biogen Inc,304.47,52997266292
+BK,Bank of New York Mellon Corp,33.64,29773125191
+BKNG,Booking Holdings Inc,1260,51737880600
+BLK,BlackRock Inc.,426.53,66038573386
+BMY,Bristol-Myers Squibb Co,55.21,1.25E+11
+C,Citigroup Inc,39.23,82312659649
+CAT,Caterpillar Inc.,116.74,64216688244
+CHTR,Charter Communications Inc,435.66,1.02E+11
+CL,Colgate-Palmolive Company,68.17,58452160419
+CMCSA,Comcast Corporation,34.37,1.56E+11
+COF,Capital One Financial Corp.,43.93,20094513455
+COP,ConocoPhillips,33.86,36462480257
+COST,Costco Wholesale Corporation,291.48,1.29E+11
+CSCO,Cisco Systems Inc.,39.8,1.69E+11
+CVS,CVS Health Corp,55.41,72263505401
+CVX,Chevron Corporation,76.12,1.43E+11
+DD,DuPont de Nemours Inc,32.51,3245453534
+DHR,Danaher Corporation,136.43,95077379745
+DIS,Walt Disney Co,96.97,1.75E+11
+DOW,Dow Inc,28.03,20817320909
+DUK,Duke Energy Corp,79.39,58274561861
+EMR,Emerson Electric Co.,47.73,29203170649
+EXC,Exelon Corporation,34.68,33775892697
+F,Ford Motor Company,4.36,17343436772
+FB,Facebook Inc. Common Stock,158.19,4.51E+11
+FDX,FedEx Corporation,116.64,30472199840
+GD,General Dynamics Corporation,127.92,37124046428
+GE,General Electric Company,6.9,60315088133
+GILD,Gilead Sciences Inc.,76.98,96918978926
+GM,General Motors Company,18.19,25993528953
+GOOG,Alphabet Inc Class C,1120.84,7.68E+11
+GS,Goldman Sachs Group Inc,149.93,51556981322
+HD,Home Depot Inc,181.31,1.95E+11
+HON,Honeywell International Inc.,132.81,93934784743
+IBM,IBM Common Stock,110,97724880000
+INTC,Intel Corporation,54.35,2.32E+11
+JNJ,Johnson & Johnson,133.15,3.51E+11
+JPM,JPMorgan Chase & Co.,87.51,2.69E+11
+KHC,Kraft Heinz Co,24.64,30104067094
+KMI,Kinder Morgan Inc,13.45,30465096917
+KO,Coca-Cola Co,43.95,1.89E+11
+LLY,Eli Lilly And Co,142.18,1.36E+11
+LMT,Lockheed Martin Corporation,353.96,99769994871
+LOW,Lowe's Companies Inc.,82.86,63510118967
+MA,Mastercard Inc,238.88,2.38E+11
+MCD,Mcdonald's Corp,161.5,1.20E+11
+MDLZ,MONDELEZ INTERNATIONAL INC Common Stock,50.38,72191669870
+MDT,Medtronic PLC,86.15,1.15E+11
+MET,Metlife Inc,28.05,25688971896
+MMM,3M Co,137.91,79334246616
+MO,Altria Group Inc,36.22,67310055008
+MRK,Merck & Co. Inc.,76.87,1.95E+11
+MS,Morgan Stanley,33.9,54215458840
+MSFT,Microsoft Corporation,155.26,1.18E+12
+NEE,NextEra Energy Inc,226.45,1.11E+11
+NFLX,Netflix Inc,370.08,1.62E+11
+NKE,Nike Inc,80.14,99562409081
+NVDA,NVIDIA Corporation,255.47,1.56E+11
+ORCL,Oracle Corporation,49.8,1.57E+11
+OXY,Occidental Petroleum Corporation,12.77,11432023659
+PEP,PepsiCo Inc.,123.86,1.72E+11
+PFE,Pfizer Inc.,32.87,1.82E+11
+PG,Procter & Gamble Co,114.4,2.83E+11
+PM,Philip Morris International Inc.,74.34,1.16E+11
+PYPL,Paypal Holdings Inc,93.52,1.10E+11
+QCOM,QUALCOMM Inc.,68.02,77749781022
+SBUX,Starbucks Corporation,65,76290500000
+SLB,Schlumberger Limited.,13.88,19267688718
+SO,Southern Co,52.4,55241548808
+SPG,Simon Property Group Inc,44.01,13505299773
+T,AT&T Inc.,28.76,2.06E+11
+TGT,Target Corporation,94.36,47270774625
+TMO,Thermo Fisher Scientific Inc.,287.55,1.15E+11
+TXN,Texas Instruments Incorporated,102.02,95254540565
+UNH,UnitedHealth Group Inc,240.44,2.28E+11
+UNP,Union Pacific Corporation,141.8,97879011906
+UPS,United Parcel Service Inc.,93.04,65322268162
+USB,U.S. Bancorp,32.67,49699594084
+V,Visa Inc,157.39,3.38E+11
+VZ,Verizon Communications Inc.,55.25,2.29E+11
+WBA,Walgreens Boots Alliance Inc,40.32,35717955569
+WFC,Wells Fargo & Co,27.22,1.11E+11
+WMT,Walmart Inc,118.65,3.36E+11
+XOM,Exxon Mobil Corporation,40.4,1.71E+11

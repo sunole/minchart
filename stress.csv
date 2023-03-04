@@ -1,0 +1,101 @@
+﻿Symbol,Name,Price (Intraday),Change,% Change,Volume,Avg Vol (3 month),Market Cap,PE Ratio (TTM)
+TSM,Taiwan Semiconductor Manufacturing Company Limited,80.83,1.59,2.01%,7.078M,15.035M,419.203B,14.54
+CVX,Chevron Corporation,173.83,1.31,0.76%,3.957M,8.831M,336.125B,9.89
+SHEL,Shell plc,56.56,0.22,0.38%,2.67M,5.112M,205.469B,4.94
+NEE,NextEra Energy Inc.,86.29,1,1.17%,1.847M,7.798M,171.432B,44.47
+TTE,TotalEnergies SE,60.09,0.84,1.42%,969.587k,2.198M,154.664B,6.87
+COP,ConocoPhillips,113.21,-1.67,-1.45%,4.069M,7.203M,141.055B,8.14
+EQNR,Equinor ASA,36.21,0.22,0.60%,994.678k,3.342M,115.794B,4.8
+PLD,Prologis Inc.,117.94,1.94,1.67%,1.985M,4.752M,108.706B,21.85
+NEE-PR,NextEra Energy Inc.,50.19,0.31,0.62%,"76,401","535,280",N/A,N/A
+EOG,EOG Resources Inc.,124.91,-1.25,-0.99%,2.662M,3.742M,73.347B,9.8
+PBR,Petróleo Brasileiro S.A. - Petrobras,10.88,-0.2,-1.81%,11.521M,37.194M,70.96B,2.08
+SLB,Schlumberger Limited,49.99,0.19,0.38%,5.359M,13.915M,70.871B,24.14
+PBR-A,Petróleo Brasileiro S.A. - Petrobras,9.61,-0.14,-1.44%,4.402M,16.518M,67.314B,1.84
+CNQ,Canadian Natural Resources Limited,55.12,0.15,0.27%,1.066M,2.285M,60.997B,7.3
+BMO,Bank of Montreal,92.42,-1.74,-1.85%,"450,073","753,028",62.581B,6.28
+UBER,Uber Technologies Inc.,26.69,0.29,1.10%,8.589M,26.059M,53.231B,N/A
+EPD,Enterprise Products Partners L.P.,24.02,0.16,0.67%,3.000M,5.477M,52.257B,10.4
+E,Eni S.p.A.,28.47,0.49,1.75%,"429,153","474,398",51.515B,2.88
+MPC,Marathon Petroleum Corporation,109.47,0.47,0.43%,2.432M,4M,51.304B,4.92
+NGG,National Grid plc,62.8,0.81,1.31%,"340,731","553,269",46.065B,12.79
+WDS,Woodside Energy Group Ltd,23.36,-0.45,-1.89%,"259,546","623,126",45.666B,7.42
+DVN,Devon Energy Corporation,63.79,-0.46,-0.72%,6.188M,11.031M,41.693B,6.7
+HES,Hess Corporation,134.17,-0.6,-0.45%,1.084M,2.148M,41.387B,22.3
+SU,Suncor Energy Inc.,30,0.22,0.76%,3.119M,5.15M,40.64B,7.31
+NTR,Nutrien Ltd.,76.96,0.71,0.93%,955.362k,2.278M,40.039B,5.47
+KMI,Kinder Morgan Inc.,17.74,-0.31,-1.69%,10.868M,19.011M,39.864B,15.98
+ANET,Arista Networks Inc.,127.2,0.44,0.35%,1.297M,2.324M,39.089B,43.71
+HLT,Hilton Worldwide Holdings Inc.,136.7,2.38,1.77%,821.595k,1.956M,36.966B,35.59
+STM,STMicroelectronics N.V.,38.77,1.08,2.87%,"981,801",4.023M,35.863B,10.54
+BBVA,Banco Bilbao Vizcaya Argentaria S.A.,5.78,0.01,0.26%,693.023k,1.816M,35.178B,5.78
+CVE,Cenovus Energy Inc.,18.13,-0.17,-0.90%,2.999M,7.715M,34.878B,9.43
+MPLX,MPLX LP,31.98,0.06,0.19%,492.861k,1.732M,32.085B,8.51
+HAL,Halliburton Company,35.18,0.13,0.37%,4.685M,10.775M,31.95B,18.23
+ALB,Albemarle Corporation,257.07,-0.54,-0.21%,749.611k,1.45M,30.134B,19.5
+SQM,Sociedad Química y Minera de Chile S.A.,92.13,-0.24,-0.26%,446.208k,1.68M,26.314B,8.55
+DTE,DTE Energy Company,117.34,2.93,2.56%,"514,414",1.772M,22.734B,20.37
+CF,CF Industries Holdings Inc.,101.57,1.05,1.04%,650.050k,2.69M,19.929B,6.64
+TS,Tenaris S.A.,32.74,0.5,1.55%,1.579M,2.16M,19.763B,9.15
+CTRA,Coterra Energy Inc.,25,-0.48,-1.90%,7.654M,8.698M,19.708B,4.54
+EC,Ecopetrol S.A.,9.27,-0.01,-0.11%,1.296M,1.957M,19.058B,2.92
+PAYC,Paycom Software Inc.,318.67,9.7,3.14%,"158,314","396,365",19.127B,75.69
+TPL,Texas Pacific Land Corporation,"2,422.69",-15.12,-0.62%,"9,241","37,241",19.1B,44.02
+UMC,United Microelectronics Corporation,7.18,0.03,0.35%,3.764M,9.991M,18.168B,6.91
+MOS,The Mosaic Company,47.44,0.11,0.23%,1.097M,4.574M,16.152B,4.63
+ASX,ASE Technology Holding Co. Ltd.,6.74,0.09,1.28%,4.487M,9.598M,14.46B,6.3
+MGM,MGM Resorts International,37.05,0.67,1.85%,2.141M,5.578M,14.228B,12.23
+HUBS,HubSpot Inc.,292.24,16.49,5.98%,"401,195","766,811",14.196B,N/A
+WLK,Westlake Corporation,107.72,1.06,0.99%,"177,780","944,255",13.738B,5.25
+SUZ,Suzano S.A.,10.22,0.11,1.09%,"490,832",1.728M,13.382B,3.96
+CSL,Carlisle Companies Incorporated,252.43,1.47,0.59%,"135,777","531,784",13.055B,15.22
+CRBG,Corebridge Financial Inc.,20.05,-0.05,-0.25%,"679,379",1.757M,12.932B,1.09
+BILL,Bill.com Holdings Inc.,117,6.44,5.82%,972.029k,2.018M,12.347B,N/A
+TRU,TransUnion,59.4,0.64,1.09%,"460,470",1.557M,11.446B,45.69
+ICL,ICL Group Ltd,8.27,-0.11,-1.37%,"595,584",1.319M,10.929B,5.07
+REXR,Rexford Industrial Realty Inc.,55.19,1.23,2.28%,"450,480",1.54M,10.453B,59.34
+MTN,Vail Resorts Inc.,252.29,5.37,2.17%,"294,287","498,033",10.174B,29.51
+DINO,HF Sinclair Corporation,50.52,-0.66,-1.29%,1.351M,2.196M,10.141B,4.55
+SSL,Sasol Limited,15.61,0.07,0.45%,"60,701","270,322",10.103B,4.45
+DAR,Darling Ingredients Inc.,62.16,-0.88,-1.40%,"920,408",1.728M,9.962B,13.57
+BCH,Banco de Chile,19.19,-0.09,-0.44%,"38,227","170,092",9.695B,5.36
+PFGC,Performance Food Group Company,60.23,0.18,0.30%,352.181k,1.035M,9.376B,45.29
+LSI,Life Storage Inc.,107.89,2.92,2.78%,"293,288","644,025",9.283B,26.71
+TWLO,Twilio Inc.,46.19,0.89,1.96%,1.968M,5.039M,8.512B,N/A
+BSMX,Banco Santander México S.A. Institución de Banca Múltiple Grupo Financiero Santander México,5.92,0.07,1.20%,"8,282","44,284",8.029B,5.64
+DCP,DCP Midstream LP,38.57,-0.03,-0.08%,"265,034","710,739",8.038B,7.68
+OGE,OGE Energy Corp.,39.93,0.44,1.11%,513.397k,1.203M,7.994B,8.57
+PAC,Grupo Aeroportuario del Pacífico S.A.B. de C.V.,157.83,-1.89,-1.18%,"16,124","50,044",7.975B,17.46
+ASR,Grupo Aeroportuario del Sureste S. A. B. de C. V.,249.93,0.27,0.11%,"20,262","56,303",7.527B,15.72
+HR,Healthcare Realty Trust Incorporated,19.83,0.1,0.51%,3.132M,2.865M,7.547B,40.47
+GLOB,Globant S.A.,178.15,6.46,3.76%,"104,617","306,038",7.442B,57.1
+WMS,Advanced Drainage Systems Inc.,88.26,-0.51,-0.57%,"286,066","829,131",7.313B,16.28
+GPK,Graphic Packaging Holding Company,22.58,-0.03,-0.13%,954.275k,2.842M,6.935B,17.37
+DOCS,Doximity Inc.,35.46,0.7,2.00%,446.598k,2.223M,6.824B,54.54
+MTDR,Matador Resources Company,57.58,-1.44,-2.45%,474.610k,1.21M,6.803B,5.87
+PLNT,Planet Fitness Inc.,75.86,-0.15,-0.19%,323.424k,"976,706",6.795B,92.52
+MUSA,Murphy USA Inc.,292.52,-3.68,-1.24%,"151,172","328,601",6.609B,10.87
+IOT,Samsara Inc.,12.55,0.65,5.46%,"575,396",1.416M,6.512B,N/A
+RBC,RBC Bearings Incorporated,223.04,-0.69,-0.31%,"28,178","144,961",6.472B,63.01
+CLH,Clean Harbors Inc.,118.25,-0.52,-0.44%,"121,594","431,696",6.394B,16.8
+CHH,Choice Hotels International Inc.,119.63,2.95,2.53%,"101,023","459,485",6.376B,19.71
+MGY,Magnolia Oil & Gas Corporation,22.64,-0.64,-2.75%,648.717k,1.772M,6.145B,5.22
+CLVT,Clarivate Plc,9.05,0.08,0.89%,3.979M,7.928M,6.101B,N/A
+CIB,Bancolombia S.A.,25.36,-0.39,-1.51%,"318,115","309,131",6.098B,4.46
+YPF,YPF Sociedad Anónima,7.49,-0.29,-3.79%,"877,855",2.383M,5.993B,2.12
+RLI,RLI Corp.,128.79,0.93,0.73%,"28,873","177,296",5.844B,10.15
+ALK,Alaska Air Group Inc.,44.26,-0.02,-0.05%,548.371k,1.442M,5.615B,113.51
+OSH,Oak Street Health Inc.,21.77,0.49,2.30%,"396,700",1.782M,5.288B,N/A
+ESTC,Elastic N.V.,54.42,2.43,4.67%,"463,750",1.546M,5.203B,N/A
+AMN,AMN Healthcare Services Inc.,117.55,-1.28,-1.08%,"293,888","596,807",5.094B,11.43
+BLD,TopBuild Corp.,159.05,3.32,2.13%,"87,144","360,322",5.085B,10.37
+CNM,Core & Main Inc.,20.77,0.09,0.44%,"279,046","928,658",5.193B,10.87
+CIVI,Civitas Resources Inc.,57.3,-2.4,-4.02%,"302,828","795,379",4.877B,3.7
+SMAR,Smartsheet Inc.,36.86,0.94,2.62%,"403,692",1.516M,4.824B,N/A
+NJR,New Jersey Resources Corporation,49.94,0.08,0.15%,"285,038","605,966",4.813B,17.52
+DAVA,Endava plc,78.33,1.62,2.11%,"54,698","322,544",4.446B,42.8
+YOU,Clear Secure Inc.,28.75,0.21,0.74%,"404,020",1.022M,4.382B,N/A
+FIX,Comfort Systems USA Inc.,122.35,1.07,0.88%,"56,435","202,650",4.375B,19.39
+SJI,South Jersey Industries Inc.,35.17,0.12,0.36%,"346,337","831,863",4.308B,26.45
+DV,DoubleVerify Holdings Inc.,25.23,0.59,2.39%,"227,139",1.339M,4.16B,84.1
+IRT,Independence Realty Trust Inc.,18.01,0.4,2.30%,1.003M,2.038M,4.146B,28.6

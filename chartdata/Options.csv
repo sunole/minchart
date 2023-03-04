@@ -1,0 +1,185 @@
+Tick,Company Name,Price,Market Cap
+SPY,SPDR S&P 500 ETF Trust,251.83,2.31E+11
+AA,Alcoa Corp,6.08,1130363185
+AAL,American Airlines Group Inc,10.06,4286153718
+AAPL,Apple Inc.,244.93,1.07E+12
+ABBV,AbbVie Inc,75.13,1.11E+11
+ADBE,Adobe Inc,303.96,1.46E+11
+ADSK,Autodesk Inc.,137.05,30085353719
+AMAT,Applied Materials Inc.,43.24,39707509741
+AMD,Advanced Micro Devices Inc.,44.49,52091207445
+AMRN,Amarin Corporation plc,5.22,1885471754
+AMZN,Amazon.com Inc.,1918.83,9.55E+11
+ATVI,Activision Blizzard Inc.,60.78,46753312221
+AUY,Yamana Gold Inc.,3.05,2899351304
+AXP,American Express Company,76.66,61770944430
+BA,Boeing Co,123.27,69552137125
+BABA,Alibaba Group Holding Ltd - ADR,188.9,5.07E+11
+BAC,Bank of America Corp,20.57,1.80E+11
+BB,BlackBerry Ltd,3.23,1790062780
+BBBY,Bed Bath & Beyond Inc.,3.56,451981152
+BBD,Banco Bradesco SA,3.79,1.54E+11
+BBY,Best Buy Co Inc,52.76,13557789528
+BHC,Bausch Health Companies Inc,13.58,4798574453
+BIDU,Baidu Inc,99.59,34443020971
+BILI,Bilibili Inc - ADR,24.42,8012595187
+BKLN,INVESCO EXCHANG/SR LN ETF,20.01,#N/A
+BMY,Bristol-Myers Squibb Co,55.21,1.25E+11
+BP,BP plc,26.03,92387240237
+BTU,Peabody Energy Corporation,3.39,329240200
+BX,Blackstone Group Inc,41.19,47140676538
+C,Citigroup Inc,39.23,82312659649
+CAT,Caterpillar Inc.,116.74,64216688244
+CGC,Canopy Growth Corp,13.8,6853153735
+CHK,Chesapeake Energy Corporation,0.17,333898205
+CLF,Cleveland-Cliffs Inc,3.74,1490814867
+CMCSA,Comcast Corporation,34.37,1.56E+11
+COG,Cabot Oil & Gas Corporation,16.7,6656211154
+COST,Costco Wholesale Corporation,291.48,1.29E+11
+CRM,salesforce.com inc.,134.32,1.20E+11
+CRON,Cronos Group Inc,5.42,2692870810
+CSCO,Cisco Systems Inc.,39.8,1.69E+11
+CTL,Centurylink Inc,8.8,9587952207
+CVE,Cenovus Energy Inc,2.36,4116714057
+CVS,CVS Health Corp,55.41,72263505401
+CVX,Chevron Corporation,76.12,1.43E+11
+CZR,Caesars Entertainment Corporation Common Stock,6.46,4407455828
+DAL,Delta Air Lines Inc.,22.68,14517332115
+DB,Deutsche Bank AG,6.02,12434911960
+DE,Deere & Company,139.38,43712357131
+DIA,SPDR Dow Jones Industrial Average ETF,213.96,17543197155
+DIS,Walt Disney Co,96.97,1.75E+11
+DLTR,Dollar Tree Inc.,70.46,16685702843
+DVA,Davita Inc,70.3,8829680383
+DVN,Devon Energy Corp,7.79,2982954575
+EA,Electronic Arts Inc.,102.29,29630753725
+EBAY,eBay Inc,29.19,23237598977
+EEM,iShares MSCI Emerging Markets Indx,33.77,19101994004
+EFA,iShares MSCI EAFE Index Fund,52.09,46755984136
+EMB,ISHARES TR/JPMORGAN USD EMERGI,95.77,#N/A
+ET,Energy Transfer LP Unit,5.22,14041261775
+EWJ,iShares MSCI Japan ETF,47.64,8525177890
+EWW,iShares MSCI Mexico Inv. Mt. Idx.,26.61,492285011
+EWZ,iShares MSCI Brazil Index,23.06,5048986883
+F,Ford Motor Company,4.36,17343436772
+FB,Facebook Inc. Common Stock,158.19,4.51E+11
+FCX,Freeport-McMoRan Inc,6.39,9271710886
+FIT,Fitbit Inc,6.58,1745510795
+FL,Foot Locker Inc.,19.96,2079652264
+FOXA,Fox Corp Class A,22.67,13568373634
+FXI,iShares FTSE/Xinhua China 25 Index,37.39,4054945433
+GDX,VanEck Vectors Gold Miners ETF,25.04,10942262552
+GE,General Electric Company,6.9,60315088133
+GILD,Gilead Sciences Inc.,76.98,96918978926
+GLD,SPDR Gold Trust,151.9,50051047988
+GM,General Motors Company,18.19,25993528953
+GOOG,Alphabet Inc Class C,1120.84,7.68E+11
+GPS,Gap Inc,5.5,2042161000
+GS,Goldman Sachs Group Inc,149.93,51556981322
+HAL,Halliburton Company,7.52,6616930703
+HD,Home Depot Inc,181.31,1.95E+11
+HPQ,HP Inc,15.49,22147044032
+HYG,iShares iBoxx $ High Yid Corp Bond,75.16,15047025217
+IBM,IBM Common Stock,110,97724880000
+INTC,Intel Corporation,54.35,2.32E+11
+IQ,IQIYI Inc,17.9,13132243430
+ITUB,Itau Unibanco Holding SA ADR,4.1,2.06E+11
+IWM,iShares Russell 2000 Index,107.67,31030482705
+IYR,iShares US Real Estate ETF,65.26,2819232092
+JCP,J C Penney Company Inc,0.3,95171043
+JD,JD.Com Inc,40.08,58736801803
+JNJ,Johnson & Johnson,133.15,3.51E+11
+JNUG,DIREXION SHS ET/DAILY JR GOLD MINER,4.52,#N/A
+JPM,JPMorgan Chase & Co.,87.51,2.69E+11
+KHC,Kraft Heinz Co,24.64,30104067094
+KO,Coca-Cola Co,43.95,1.89E+11
+KRE,SPDR KBW Regional Banking,31.05,1048017893
+KSS,Kohl's Corporation,11.71,1817942375
+LB,L Brands Inc,10.15,2806809844
+LOW,Lowe's Companies Inc.,82.86,63510118967
+LRCX,Lam Research Corporation,220.57,32103523426
+LULU,Lululemon Athletica Inc,185.49,24144306565
+LVS,Las Vegas Sands Corp.,40.27,30753591272
+M,Macy's Inc,4.45,1377920190
+MA,Mastercard Inc,238.88,2.38E+11
+MCD,Mcdonald's Corp,161.5,1.20E+11
+MDT,Medtronic PLC,86.15,1.15E+11
+MET,Metlife Inc,28.05,25688971896
+MO,Altria Group Inc,36.22,67310055008
+MPC,Marathon Petroleum Corp,21.22,13793020773
+MRK,Merck & Co. Inc.,76.87,1.95E+11
+MS,Morgan Stanley,33.9,54215458840
+MSFT,Microsoft Corporation,155.26,1.18E+12
+MU,Micron Technology Inc.,41.09,45699722909
+NBEV,New Age Beverages Corp,1.11,94835126
+NFLX,Netflix Inc,370.08,1.62E+11
+NIO,Nio Inc - ADR ADR Class A,2.39,2515862290
+NKE,Nike Inc,80.14,99562409081
+NUGT,DIREXION SHS ET/DAILY GOLD MINERS I,7.82,#N/A
+NVDA,NVIDIA Corporation,255.47,1.56E+11
+OIH,VANECK VECTORS/OIL SVCS ETF,4.11,#N/A
+ORCL,Oracle Corporation,49.8,1.57E+11
+OSTK,Overstock.com Inc,4.63,186708412
+PAGS,PagSeguro Digital Ltd,18.9,6215366934
+PBR,PETROLEO BRASIL/ADR,5.81,2.04E+11
+PCG,PG&E Corporation,8.28,4386627938
+PDD,Pinduoduo Inc - ADR,36.28,42170310541
+PFE,Pfizer Inc.,32.87,1.82E+11
+PG,Procter & Gamble Co,114.4,2.83E+11
+PYPL,Paypal Holdings Inc,93.52,1.10E+11
+QCOM,QUALCOMM Inc.,68.02,77749781022
+QQQ,PowerShares QQQ Trust Series 1,186.01,81556082091
+RF,Regions Financial Corp,8.39,8032527598
+RIG,Transocean LTD,1.1,673834714
+ROKU,Roku Inc,82.53,9901825458
+RRC,Range Resources Corp.,2.4,611316744
+SBUX,Starbucks Corporation,65,76290500000
+SLB,Schlumberger Limited.,13.88,19267688718
+SLV,iShares Silver Trust,13.53,5729954886
+SMH,VANECK VECTORS/SEMICONDUCTOR ETF,114.33,#N/A
+SNAP,Snap Inc,11.27,16005541950
+SPX,STELLAR AFRICAGOLD ORD,0.02,#N/A
+SQ,Square Inc,45.88,19968563912
+SQQQ,PROSHARES TR/ULTRAPRO SHORT QQQ NEW,20.65,#N/A
+STX,Seagate Technology PLC,47.58,12416286957
+STZ,Constellation Brands Inc. Class A,131.22,25153890083
+T,AT&T Inc.,28.76,2.06E+11
+TEVA,Teva Pharmaceutical Industries Ltd,8.12,8874526514
+TGT,Target Corporation,94.36,47270774625
+TJX,TJX Companies Inc,43.79,52447196516
+TLRY,Tilray Inc,6.1,671190309
+TLT,iShares Barclays 20+ Yr Treas.Bond,168.1,18507810671
+TQQQ,PROSHARES TR/ULTRAPRO QQQ,44.2,#N/A
+TSLA,Tesla Inc,454.47,83672244689
+TWLO,Twilio Inc,83.32,11640703813
+TWTR,Twitter Inc,23.02,18030116098
+TZA,Direxion Daily Small Cap Bear 3X Shares,69.56,444597871
+UNG,United States Natural Gas Fund LP,11.75,310018815
+UNH,UnitedHealth Group Inc,240.44,2.28E+11
+UNP,Union Pacific Corporation,141.8,97879011906
+USO,United States Oil Fund LP,5.11,2507477065
+UVXY,PROSHARES TR II/ULTRA VIX SHORT TER,60.41,#N/A
+V,Visa Inc,157.39,3.38E+11
+VALE,Vale SA,8.15,2.26E+11
+VIX,VIX,50.91,#N/A
+VLO,Valero Energy Corporation,41.5,16987485500
+VXX,BARCLAYS IPTH SRS B S&P SHRT TRM ETN,47.36,69489855366
+VZ,Verizon Communications Inc.,55.25,2.29E+11
+WDC,Western Digital Corp,38.4,11478989256
+WFC,Wells Fargo & Co,27.22,1.11E+11
+WMT,Walmart Inc,118.65,3.36E+11
+WYNN,Wynn Resorts Limited,52.67,5662867523
+X,United States Steel Corporation,6.14,1045315943
+XBI,SPDR S&P Biotech,75.93,3511762514
+XLE,Energy Select Sector SPDR,30.15,6816134028
+XLF,Financial Select Sector SPDR Fund,20.04,14279414476
+XLI,Industrial Select Sector SPDR Fund,57.1,6639359422
+XLK,Technology Select Sector SPDR Fund,78.33,23029474852
+XLP,Consumer Staples Select Sect. SPDR,54.92,12720668831
+XLU,Utilities SPDR,53.71,9857073871
+XLV,Health Care SPDR,87.57,18303469757
+XME,SPDR S&P Metals and Mining,16.12,252281559
+XOM,Exxon Mobil Corporation,40.4,1.71E+11
+XOP,SPDR S&P Oil & Gas Explore & Prod.,33.66,1425080243
+XRT,SPDR S&P Retail,27.64,203160186
+YELP,Yelp Inc,17.65,1267969795
