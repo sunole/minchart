@@ -5,8 +5,9 @@ const debugMode = false;
 
 const refetchDelay = 1000 * 60 / 30 ;
 const refetchSimulationDelay = refetchDelay * 2;
-const autoHighlightPositionDelay = 1000 * 6;
 const timelineMargin = 44;
+const timelineMargin1 = 4411;
+
 
 const urlPrefix = './chartdata/';
 const group = new URL(window.location.href).searchParams.get('group') || 'dnas';
