@@ -7,6 +7,9 @@ const debugMode1 = false;
 const refetchDelay = 1000 * 60 / 30 ;
 const refetchSimulationDelay = refetchDelay * 2;
  
+
+console.log("Thomas changes")
+
 const urlPrefix = './chartdata/';
 const group = new URL(window.location.href).searchParams.get('group') || 'dnas';
 const dates = new URL(window.location.href).searchParams.get('dates') || '';
