@@ -8,9 +8,6 @@ const refetchSimulationDelay = refetchDelay * 2;
 const timelineMargin = 44;
 const timelineMargin1 = 4411;
 const timelineMargin2 = 44;
-
-v
-
 const urlPrefix = './chartdata/';
 const group = new URL(window.location.href).searchParams.get('group') || 'dnas';
 const dates = new URL(window.location.href).searchParams.get('dates') || '';
