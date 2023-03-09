@@ -2,7 +2,6 @@ import { renderStatus, isMarketOpen } from './appStatus.js';
 
 const disableTimers = false;
 const debugMode = false;
-const debugMode1 = false;
 
 const refetchDelay = 1000 * 60 / 30 ;
 const refetchSimulationDelay = refetchDelay * 2;
