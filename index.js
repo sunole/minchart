@@ -2,13 +2,15 @@ import { renderStatus, isMarketOpen } from './appStatus.js';
 
 const disableTimers = false;
 const debugMode = false;
-const debugMode1 = false;
 
 const refetchDelay = 1000 * 60 / 30 ;
 const refetchSimulationDelay = refetchDelay * 2;
-const timelineMargin = 44;
-const timelineMargin1 = 4411;
-const timelineMargin2 = 44;
+ 
+
+console.log("Thomas changes")
+console.log("Thomas changes")
+console.log("Thomas changes")
+
 const urlPrefix = './chartdata/';
 const group = new URL(window.location.href).searchParams.get('group') || 'dnas';
 const dates = new URL(window.location.href).searchParams.get('dates') || '';
