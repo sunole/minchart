@@ -8,9 +8,9 @@ const refetchSimulationDelay = refetchDelay * 2;
  
 
 console.log("Thomas changes dev 1 changes")
-console.log("Thomas changes")
-console.log("Thomas changes")
+console.log("Thomas changes please choose")
 console.log("Thomas changes dev 2 changes")
+console.log("Thomas changes dev 2 changes added this line")
 
 const urlPrefix = './chartdata/dev2 changed';
 const group = new URL(window.location.href).searchParams.get('group') || 'dnas';
