@@ -11,7 +11,7 @@ console.log("Thomas changes dev 1 changes")
 console.log("Thomas changes")
 console.log("Thomas changes dev 2 changes")
 
-const urlPrefix = './chartdata/';
+const urlPrefix = './chartdata/dev2 changed';
 const group = new URL(window.location.href).searchParams.get('group') || 'dnas';
 const dates = new URL(window.location.href).searchParams.get('dates') || '';
 const loadPeriod = new URL(window.location.href).searchParams.get('loadPeriod') || 'daily';
