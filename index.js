@@ -9,6 +9,8 @@ const refetchSimulationDelay = refetchDelay * 2;
 
 console.log("Thomas changes dev 1 changes")
 console.log("Thomas changes dev 1 changes added this line")
+console.log("Thomas changes dev 1 changes added this line 2")
+
 console.log("Thomas changes dev 1 change, ")
 console.log("Thomas changes dev 2 changes")
 console.log("Thomas changes dev 2 changes added this line")
