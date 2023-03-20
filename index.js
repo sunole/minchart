@@ -7,7 +7,7 @@ const refetchDelay = 1000 * 60 / 30 ;
 const refetchSimulationDelay = refetchDelay * 2;
  
 
-console.log("Thomas changes")
+console.log("Thomas changes dev 1 changes")
 console.log("Thomas changes")
 console.log("Thomas changes")
 
